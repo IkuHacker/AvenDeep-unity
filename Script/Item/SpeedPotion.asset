@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea59433516d902f44aeb7ceac8c06ad4, type: 3}
+  m_Name: SpeedPotion
+  m_EditorClassIdentifier: 
+  itemName: Speed potion
+  description: An simple speed potion.
+  visual: {fileID: 1106722156, guid: fbbc89783b3c23346ba54c79a270a583, type: 3}
+  prefab: {fileID: 328591088753715919, guid: 12d00888661b8244689e19a12b4cadc4, type: 3}
+  stackable: 1
+  maxStack: 4
+  hpGiven: 0
+  speedGiven: 10
+  speedDuration: 10
+  armorPoint: 0
+  price: 20
+  type: 1
+  consumableType: 1
+  rarity: 1
+  equipmentType: 0

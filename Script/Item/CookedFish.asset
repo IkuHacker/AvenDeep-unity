@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea59433516d902f44aeb7ceac8c06ad4, type: 3}
+  m_Name: CookedFish
+  m_EditorClassIdentifier: 
+  itemName: Cooked fish
+  description: A delicious cooked fish.
+  visual: {fileID: -221703399, guid: fbbc89783b3c23346ba54c79a270a583, type: 3}
+  prefab: {fileID: 8646881297318624976, guid: d8becc804325e254f8c8e744d16731d8, type: 3}
+  stackable: 1
+  maxStack: 16
+  hpGiven: 10
+  speedGiven: 0
+  speedDuration: 0
+  armorPoint: 0
+  price: 3
+  type: 1
+  consumableType: 2
+  rarity: 1
+  equipmentType: 0

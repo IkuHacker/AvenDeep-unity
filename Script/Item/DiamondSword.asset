@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea59433516d902f44aeb7ceac8c06ad4, type: 3}
+  m_Name: DiamondSword
+  m_EditorClassIdentifier: 
+  itemName: Diamond sword
+  description: A diamond sword that deals more damage than a metal sword.
+  visual: {fileID: 607831742, guid: 6eb16e372762d6b4cb708c44ebfab931, type: 3}
+  prefab: {fileID: 5872185510339582235, guid: f012be266f6a1814185a9a31e5684ce1, type: 3}
+  stackable: 0
+  maxStack: 0
+  hpGiven: 0
+  speedGiven: 0
+  speedDuration: 0
+  armorPoint: 0
+  price: 300
+  type: 2
+  consumableType: 0
+  rarity: 2
+  equipmentType: 5

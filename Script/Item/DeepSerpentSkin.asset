@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea59433516d902f44aeb7ceac8c06ad4, type: 3}
+  m_Name: DeepSerpentSkin
+  m_EditorClassIdentifier: 
+  itemName: Deep serpent skin
+  description: This deep serpent skin can be used to make armor.
+  visual: {fileID: -948263169, guid: fbbc89783b3c23346ba54c79a270a583, type: 3}
+  prefab: {fileID: 296269072710423355, guid: 1474c639a5f2bcb4d976d628d4e9a8aa, type: 3}
+  stackable: 1
+  maxStack: 32
+  hpGiven: 0
+  speedGiven: 0
+  speedDuration: 0
+  armorPoint: 0
+  price: 7
+  type: 0
+  consumableType: 0
+  rarity: 0
+  equipmentType: 0
